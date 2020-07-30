@@ -1,1 +1,1 @@
-# The repo is available at https://github.com/EpistasisLab/conservation-machine-learning
+# The repo is available at https://github.com/EpistasisLab/Conservation-Machine-Learning
